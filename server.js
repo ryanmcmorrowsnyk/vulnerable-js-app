@@ -12,7 +12,6 @@ const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
 const axios = require('axios');
-const request = require('request');
 const ejs = require('ejs');
 const multer = require('multer');
 const _ = require('lodash');
